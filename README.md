@@ -1,4 +1,4 @@
-# 🔄 Arduino Dual LED Blink Project
+# 🔴🔵 Ambulance Lights Project
 ## 📌 Overview
 This project showcases how to blink two LEDs alternately using an Arduino Uno. It's a fundamental digital electronics task that introduces the concept of controlling multiple digital outputs with precise timing.
 
