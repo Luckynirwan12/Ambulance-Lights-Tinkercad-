@@ -34,3 +34,12 @@ The Arduino is programmed to:
 3. Turn on the blue LED and turn off the red LED.
 
 4. Repeat this cycle indefinitely.
+
+## 💡 Arduino Code
+The Arduino sketch for this project is saved in the file:
+
+📂 `Ambulance_Lights.ino`
+
+## 📸 Demonstration Snapshot:
+<img width="1324" height="730" alt="image" src="https://github.com/user-attachments/assets/09abb0d4-664e-48c6-b7bc-f87a8bc8a7c3" />
+
